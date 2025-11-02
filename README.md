@@ -1,1 +1,0 @@
-# Pantrix_frontend_2
